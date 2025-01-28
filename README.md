@@ -4,3 +4,5 @@ This is a cool stone-paper-scissor game against a bot with interactive interface
 HTML File: Game.html
 
 CSS File: Styl.css
+
+JavaScript File: GameLogic.js
